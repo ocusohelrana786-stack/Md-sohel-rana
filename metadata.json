@@ -1,0 +1,9 @@
+{
+  "name": "Md Sohel Rana - Colorful Admin CMS",
+  "description": "A professional, colorful multi-functional platform with an AI-powered admin panel, SMS zone, stories, real-time BD job circulars, and job preparation exam system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
